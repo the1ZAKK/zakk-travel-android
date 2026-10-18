@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <corners android:radius="16dp"/>
+    <solid android:color="@android:color/white" /> <!-- background color, change as needed -->
+    <stroke
+        android:width="2dp"
+        android:color="@android:color/black" /> <!-- border width and color, change as needed -->
+    <size android:width="40dp" android:height="40dp" /> <!-- size of the shape, matches logo size -->
+</shape>
